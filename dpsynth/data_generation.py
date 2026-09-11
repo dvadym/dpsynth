@@ -21,7 +21,7 @@ import enum
 from typing import Any
 
 import apache_beam as beam
-from dpsynth.dataset_descriptors import creating_data_recorder_converter
+# from dpsynth.dataset_descriptors import creating_data_recorder_converter
 from dpsynth.dataset_descriptors import dataset_descriptor
 from dpsynth.pipeline_transformations import aim
 from dpsynth.pipeline_transformations import dataset_compression
